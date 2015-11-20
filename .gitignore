@@ -19,6 +19,7 @@ ExportedObj/
 
 # -------------[ VSCode ]------------------------ #
 .vscode
+Assets/VSCode*
 
 # -------------[ Sublime Text ]------------------------ #
 
